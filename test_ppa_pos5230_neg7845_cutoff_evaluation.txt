@@ -1,0 +1,1066 @@
+Evaluation Results test_ppa_pos5028_neg166942 for Cutoff Values
+
+Cutoff: 0.00
+  TP: 5260, TN: 0
+  FP: 7845, FN: 0
+  Accuracy: 0.4014
+  Precision: 0.4014, Recall: 1.0000
+  F1-score: 0.5728
+
+Cutoff: 0.05
+  TP: 5260, TN: 0
+  FP: 7845, FN: 0
+  Accuracy: 0.4014
+  Precision: 0.4014, Recall: 1.0000
+  F1-score: 0.5728
+
+Cutoff: 0.10
+  TP: 5254, TN: 31
+  FP: 7814, FN: 6
+  Accuracy: 0.4033
+  Precision: 0.4021, Recall: 0.9989
+  F1-score: 0.5733
+
+Cutoff: 0.15
+  TP: 5236, TN: 160
+  FP: 7685, FN: 24
+  Accuracy: 0.4118
+  Precision: 0.4052, Recall: 0.9954
+  F1-score: 0.5760
+
+Cutoff: 0.20
+  TP: 5196, TN: 372
+  FP: 7473, FN: 64
+  Accuracy: 0.4249
+  Precision: 0.4101, Recall: 0.9878
+  F1-score: 0.5796
+
+Cutoff: 0.25
+  TP: 5119, TN: 679
+  FP: 7166, FN: 141
+  Accuracy: 0.4424
+  Precision: 0.4167, Recall: 0.9732
+  F1-score: 0.5835
+
+Cutoff: 0.30
+  TP: 5002, TN: 1097
+  FP: 6748, FN: 258
+  Accuracy: 0.4654
+  Precision: 0.4257, Recall: 0.9510
+  F1-score: 0.5881
+
+Cutoff: 0.35
+  TP: 4891, TN: 1576
+  FP: 6269, FN: 369
+  Accuracy: 0.4935
+  Precision: 0.4383, Recall: 0.9298
+  F1-score: 0.5957
+
+Cutoff: 0.40
+  TP: 4751, TN: 2057
+  FP: 5788, FN: 509
+  Accuracy: 0.5195
+  Precision: 0.4508, Recall: 0.9032
+  F1-score: 0.6014
+
+Cutoff: 0.45
+  TP: 4590, TN: 2597
+  FP: 5248, FN: 670
+  Accuracy: 0.5484
+  Precision: 0.4666, Recall: 0.8726
+  F1-score: 0.6080
+
+Cutoff: 0.50
+  TP: 4365, TN: 3154
+  FP: 4691, FN: 895
+  Accuracy: 0.5738
+  Precision: 0.4820, Recall: 0.8298
+  F1-score: 0.6098
+
+Cutoff: 0.55
+  TP: 4162, TN: 3655
+  FP: 4190, FN: 1098
+  Accuracy: 0.5965
+  Precision: 0.4983, Recall: 0.7913
+  F1-score: 0.6115
+
+Cutoff: 0.60
+  TP: 3981, TN: 4107
+  FP: 3738, FN: 1279
+  Accuracy: 0.6172
+  Precision: 0.5157, Recall: 0.7568
+  F1-score: 0.6135
+
+Cutoff: 0.65
+  TP: 3807, TN: 4546
+  FP: 3299, FN: 1453
+  Accuracy: 0.6374
+  Precision: 0.5357, Recall: 0.7238
+  F1-score: 0.6157
+
+Cutoff: 0.70
+  TP: 3605, TN: 4929
+  FP: 2916, FN: 1655
+  Accuracy: 0.6512
+  Precision: 0.5528, Recall: 0.6854
+  F1-score: 0.6120
+
+Cutoff: 0.75
+  TP: 3408, TN: 5317
+  FP: 2528, FN: 1852
+  Accuracy: 0.6658
+  Precision: 0.5741, Recall: 0.6479
+  F1-score: 0.6088
+
+Cutoff: 0.80
+  TP: 3211, TN: 5622
+  FP: 2223, FN: 2049
+  Accuracy: 0.6740
+  Precision: 0.5909, Recall: 0.6105
+  F1-score: 0.6005
+
+Cutoff: 0.85
+  TP: 3042, TN: 5910
+  FP: 1935, FN: 2218
+  Accuracy: 0.6831
+  Precision: 0.6112, Recall: 0.5783
+  F1-score: 0.5943
+
+Cutoff: 0.90
+  TP: 2876, TN: 6133
+  FP: 1712, FN: 2384
+  Accuracy: 0.6874
+  Precision: 0.6269, Recall: 0.5468
+  F1-score: 0.5841
+
+Cutoff: 0.95
+  TP: 2741, TN: 6351
+  FP: 1494, FN: 2519
+  Accuracy: 0.6938
+  Precision: 0.6472, Recall: 0.5211
+  F1-score: 0.5774
+
+Cutoff: 1.00
+  TP: 2601, TN: 6529
+  FP: 1316, FN: 2659
+  Accuracy: 0.6967
+  Precision: 0.6640, Recall: 0.4945
+  F1-score: 0.5669
+
+Cutoff: 1.05
+  TP: 2453, TN: 6668
+  FP: 1177, FN: 2807
+  Accuracy: 0.6960
+  Precision: 0.6758, Recall: 0.4663
+  F1-score: 0.5519
+
+Cutoff: 1.10
+  TP: 2326, TN: 6804
+  FP: 1041, FN: 2934
+  Accuracy: 0.6967
+  Precision: 0.6908, Recall: 0.4422
+  F1-score: 0.5392
+
+Cutoff: 1.15
+  TP: 2181, TN: 6934
+  FP: 911, FN: 3079
+  Accuracy: 0.6955
+  Precision: 0.7054, Recall: 0.4146
+  F1-score: 0.5223
+
+Cutoff: 1.20
+  TP: 2048, TN: 7042
+  FP: 803, FN: 3212
+  Accuracy: 0.6936
+  Precision: 0.7183, Recall: 0.3894
+  F1-score: 0.5050
+
+Cutoff: 1.25
+  TP: 1928, TN: 7133
+  FP: 712, FN: 3332
+  Accuracy: 0.6914
+  Precision: 0.7303, Recall: 0.3665
+  F1-score: 0.4881
+
+Cutoff: 1.30
+  TP: 1817, TN: 7223
+  FP: 622, FN: 3443
+  Accuracy: 0.6898
+  Precision: 0.7450, Recall: 0.3454
+  F1-score: 0.4720
+
+Cutoff: 1.35
+  TP: 1720, TN: 7290
+  FP: 555, FN: 3540
+  Accuracy: 0.6875
+  Precision: 0.7560, Recall: 0.3270
+  F1-score: 0.4565
+
+Cutoff: 1.40
+  TP: 1609, TN: 7350
+  FP: 495, FN: 3651
+  Accuracy: 0.6836
+  Precision: 0.7647, Recall: 0.3059
+  F1-score: 0.4370
+
+Cutoff: 1.45
+  TP: 1502, TN: 7395
+  FP: 450, FN: 3758
+  Accuracy: 0.6789
+  Precision: 0.7695, Recall: 0.2856
+  F1-score: 0.4165
+
+Cutoff: 1.50
+  TP: 1418, TN: 7440
+  FP: 405, FN: 3842
+  Accuracy: 0.6759
+  Precision: 0.7778, Recall: 0.2696
+  F1-score: 0.4004
+
+Cutoff: 1.55
+  TP: 1320, TN: 7483
+  FP: 362, FN: 3940
+  Accuracy: 0.6717
+  Precision: 0.7848, Recall: 0.2510
+  F1-score: 0.3803
+
+Cutoff: 1.60
+  TP: 1249, TN: 7516
+  FP: 329, FN: 4011
+  Accuracy: 0.6688
+  Precision: 0.7915, Recall: 0.2375
+  F1-score: 0.3653
+
+Cutoff: 1.65
+  TP: 1177, TN: 7554
+  FP: 291, FN: 4083
+  Accuracy: 0.6662
+  Precision: 0.8018, Recall: 0.2238
+  F1-score: 0.3499
+
+Cutoff: 1.70
+  TP: 1114, TN: 7592
+  FP: 253, FN: 4146
+  Accuracy: 0.6643
+  Precision: 0.8149, Recall: 0.2118
+  F1-score: 0.3362
+
+Cutoff: 1.75
+  TP: 1041, TN: 7611
+  FP: 234, FN: 4219
+  Accuracy: 0.6602
+  Precision: 0.8165, Recall: 0.1979
+  F1-score: 0.3186
+
+Cutoff: 1.80
+  TP: 969, TN: 7628
+  FP: 217, FN: 4291
+  Accuracy: 0.6560
+  Precision: 0.8170, Recall: 0.1842
+  F1-score: 0.3007
+
+Cutoff: 1.85
+  TP: 905, TN: 7645
+  FP: 200, FN: 4355
+  Accuracy: 0.6524
+  Precision: 0.8190, Recall: 0.1721
+  F1-score: 0.2844
+
+Cutoff: 1.90
+  TP: 837, TN: 7659
+  FP: 186, FN: 4423
+  Accuracy: 0.6483
+  Precision: 0.8182, Recall: 0.1591
+  F1-score: 0.2664
+
+Cutoff: 1.95
+  TP: 785, TN: 7685
+  FP: 160, FN: 4475
+  Accuracy: 0.6463
+  Precision: 0.8307, Recall: 0.1492
+  F1-score: 0.2530
+
+Cutoff: 2.00
+  TP: 715, TN: 7698
+  FP: 147, FN: 4545
+  Accuracy: 0.6420
+  Precision: 0.8295, Recall: 0.1359
+  F1-score: 0.2336
+
+Cutoff: 2.05
+  TP: 671, TN: 7713
+  FP: 132, FN: 4589
+  Accuracy: 0.6398
+  Precision: 0.8356, Recall: 0.1276
+  F1-score: 0.2213
+
+Cutoff: 2.10
+  TP: 623, TN: 7723
+  FP: 122, FN: 4637
+  Accuracy: 0.6369
+  Precision: 0.8362, Recall: 0.1184
+  F1-score: 0.2075
+
+Cutoff: 2.15
+  TP: 588, TN: 7733
+  FP: 112, FN: 4672
+  Accuracy: 0.6349
+  Precision: 0.8400, Recall: 0.1118
+  F1-score: 0.1973
+
+Cutoff: 2.20
+  TP: 545, TN: 7738
+  FP: 107, FN: 4715
+  Accuracy: 0.6320
+  Precision: 0.8359, Recall: 0.1036
+  F1-score: 0.1844
+
+Cutoff: 2.25
+  TP: 505, TN: 7745
+  FP: 100, FN: 4755
+  Accuracy: 0.6295
+  Precision: 0.8347, Recall: 0.0960
+  F1-score: 0.1722
+
+Cutoff: 2.30
+  TP: 471, TN: 7753
+  FP: 92, FN: 4789
+  Accuracy: 0.6275
+  Precision: 0.8366, Recall: 0.0895
+  F1-score: 0.1618
+
+Cutoff: 2.35
+  TP: 453, TN: 7760
+  FP: 85, FN: 4807
+  Accuracy: 0.6267
+  Precision: 0.8420, Recall: 0.0861
+  F1-score: 0.1563
+
+Cutoff: 2.40
+  TP: 420, TN: 7766
+  FP: 79, FN: 4840
+  Accuracy: 0.6246
+  Precision: 0.8417, Recall: 0.0798
+  F1-score: 0.1459
+
+Cutoff: 2.45
+  TP: 388, TN: 7773
+  FP: 72, FN: 4872
+  Accuracy: 0.6227
+  Precision: 0.8435, Recall: 0.0738
+  F1-score: 0.1357
+
+Cutoff: 2.50
+  TP: 365, TN: 7777
+  FP: 68, FN: 4895
+  Accuracy: 0.6213
+  Precision: 0.8430, Recall: 0.0694
+  F1-score: 0.1282
+
+Cutoff: 2.55
+  TP: 345, TN: 7784
+  FP: 61, FN: 4915
+  Accuracy: 0.6203
+  Precision: 0.8498, Recall: 0.0656
+  F1-score: 0.1218
+
+Cutoff: 2.60
+  TP: 322, TN: 7788
+  FP: 57, FN: 4938
+  Accuracy: 0.6188
+  Precision: 0.8496, Recall: 0.0612
+  F1-score: 0.1142
+
+Cutoff: 2.65
+  TP: 300, TN: 7794
+  FP: 51, FN: 4960
+  Accuracy: 0.6176
+  Precision: 0.8547, Recall: 0.0570
+  F1-score: 0.1069
+
+Cutoff: 2.70
+  TP: 283, TN: 7796
+  FP: 49, FN: 4977
+  Accuracy: 0.6165
+  Precision: 0.8524, Recall: 0.0538
+  F1-score: 0.1012
+
+Cutoff: 2.75
+  TP: 260, TN: 7799
+  FP: 46, FN: 5000
+  Accuracy: 0.6150
+  Precision: 0.8497, Recall: 0.0494
+  F1-score: 0.0934
+
+Cutoff: 2.80
+  TP: 244, TN: 7802
+  FP: 43, FN: 5016
+  Accuracy: 0.6140
+  Precision: 0.8502, Recall: 0.0464
+  F1-score: 0.0880
+
+Cutoff: 2.85
+  TP: 228, TN: 7807
+  FP: 38, FN: 5032
+  Accuracy: 0.6131
+  Precision: 0.8571, Recall: 0.0433
+  F1-score: 0.0825
+
+Cutoff: 2.90
+  TP: 211, TN: 7810
+  FP: 35, FN: 5049
+  Accuracy: 0.6121
+  Precision: 0.8577, Recall: 0.0401
+  F1-score: 0.0766
+
+Cutoff: 2.95
+  TP: 198, TN: 7811
+  FP: 34, FN: 5062
+  Accuracy: 0.6111
+  Precision: 0.8534, Recall: 0.0376
+  F1-score: 0.0721
+
+Cutoff: 3.00
+  TP: 184, TN: 7816
+  FP: 29, FN: 5076
+  Accuracy: 0.6105
+  Precision: 0.8638, Recall: 0.0350
+  F1-score: 0.0672
+
+Cutoff: 3.05
+  TP: 177, TN: 7818
+  FP: 27, FN: 5083
+  Accuracy: 0.6101
+  Precision: 0.8676, Recall: 0.0337
+  F1-score: 0.0648
+
+Cutoff: 3.10
+  TP: 166, TN: 7820
+  FP: 25, FN: 5094
+  Accuracy: 0.6094
+  Precision: 0.8691, Recall: 0.0316
+  F1-score: 0.0609
+
+Cutoff: 3.15
+  TP: 157, TN: 7825
+  FP: 20, FN: 5103
+  Accuracy: 0.6091
+  Precision: 0.8870, Recall: 0.0298
+  F1-score: 0.0578
+
+Cutoff: 3.20
+  TP: 144, TN: 7825
+  FP: 20, FN: 5116
+  Accuracy: 0.6081
+  Precision: 0.8780, Recall: 0.0274
+  F1-score: 0.0531
+
+Cutoff: 3.25
+  TP: 134, TN: 7828
+  FP: 17, FN: 5126
+  Accuracy: 0.6076
+  Precision: 0.8874, Recall: 0.0255
+  F1-score: 0.0495
+
+Cutoff: 3.30
+  TP: 130, TN: 7830
+  FP: 15, FN: 5130
+  Accuracy: 0.6074
+  Precision: 0.8966, Recall: 0.0247
+  F1-score: 0.0481
+
+Cutoff: 3.35
+  TP: 125, TN: 7830
+  FP: 15, FN: 5135
+  Accuracy: 0.6070
+  Precision: 0.8929, Recall: 0.0238
+  F1-score: 0.0463
+
+Cutoff: 3.40
+  TP: 114, TN: 7832
+  FP: 13, FN: 5146
+  Accuracy: 0.6063
+  Precision: 0.8976, Recall: 0.0217
+  F1-score: 0.0423
+
+Cutoff: 3.45
+  TP: 109, TN: 7833
+  FP: 12, FN: 5151
+  Accuracy: 0.6060
+  Precision: 0.9008, Recall: 0.0207
+  F1-score: 0.0405
+
+Cutoff: 3.50
+  TP: 102, TN: 7834
+  FP: 11, FN: 5158
+  Accuracy: 0.6056
+  Precision: 0.9027, Recall: 0.0194
+  F1-score: 0.0380
+
+Cutoff: 3.55
+  TP: 96, TN: 7836
+  FP: 9, FN: 5164
+  Accuracy: 0.6053
+  Precision: 0.9143, Recall: 0.0183
+  F1-score: 0.0358
+
+Cutoff: 3.60
+  TP: 89, TN: 7838
+  FP: 7, FN: 5171
+  Accuracy: 0.6049
+  Precision: 0.9271, Recall: 0.0169
+  F1-score: 0.0332
+
+Cutoff: 3.65
+  TP: 81, TN: 7838
+  FP: 7, FN: 5179
+  Accuracy: 0.6043
+  Precision: 0.9205, Recall: 0.0154
+  F1-score: 0.0303
+
+Cutoff: 3.70
+  TP: 76, TN: 7839
+  FP: 6, FN: 5184
+  Accuracy: 0.6040
+  Precision: 0.9268, Recall: 0.0144
+  F1-score: 0.0285
+
+Cutoff: 3.75
+  TP: 72, TN: 7842
+  FP: 3, FN: 5188
+  Accuracy: 0.6039
+  Precision: 0.9600, Recall: 0.0137
+  F1-score: 0.0270
+
+Cutoff: 3.80
+  TP: 69, TN: 7842
+  FP: 3, FN: 5191
+  Accuracy: 0.6037
+  Precision: 0.9583, Recall: 0.0131
+  F1-score: 0.0259
+
+Cutoff: 3.85
+  TP: 64, TN: 7842
+  FP: 3, FN: 5196
+  Accuracy: 0.6033
+  Precision: 0.9552, Recall: 0.0122
+  F1-score: 0.0240
+
+Cutoff: 3.90
+  TP: 60, TN: 7842
+  FP: 3, FN: 5200
+  Accuracy: 0.6030
+  Precision: 0.9524, Recall: 0.0114
+  F1-score: 0.0225
+
+Cutoff: 3.95
+  TP: 55, TN: 7842
+  FP: 3, FN: 5205
+  Accuracy: 0.6026
+  Precision: 0.9483, Recall: 0.0105
+  F1-score: 0.0207
+
+Cutoff: 4.00
+  TP: 51, TN: 7843
+  FP: 2, FN: 5209
+  Accuracy: 0.6024
+  Precision: 0.9623, Recall: 0.0097
+  F1-score: 0.0192
+
+Cutoff: 4.05
+  TP: 49, TN: 7843
+  FP: 2, FN: 5211
+  Accuracy: 0.6022
+  Precision: 0.9608, Recall: 0.0093
+  F1-score: 0.0185
+
+Cutoff: 4.10
+  TP: 47, TN: 7844
+  FP: 1, FN: 5213
+  Accuracy: 0.6021
+  Precision: 0.9792, Recall: 0.0089
+  F1-score: 0.0177
+
+Cutoff: 4.15
+  TP: 44, TN: 7844
+  FP: 1, FN: 5216
+  Accuracy: 0.6019
+  Precision: 0.9778, Recall: 0.0084
+  F1-score: 0.0166
+
+Cutoff: 4.20
+  TP: 42, TN: 7844
+  FP: 1, FN: 5218
+  Accuracy: 0.6018
+  Precision: 0.9767, Recall: 0.0080
+  F1-score: 0.0158
+
+Cutoff: 4.25
+  TP: 42, TN: 7844
+  FP: 1, FN: 5218
+  Accuracy: 0.6018
+  Precision: 0.9767, Recall: 0.0080
+  F1-score: 0.0158
+
+Cutoff: 4.30
+  TP: 38, TN: 7844
+  FP: 1, FN: 5222
+  Accuracy: 0.6014
+  Precision: 0.9744, Recall: 0.0072
+  F1-score: 0.0143
+
+Cutoff: 4.35
+  TP: 36, TN: 7844
+  FP: 1, FN: 5224
+  Accuracy: 0.6013
+  Precision: 0.9730, Recall: 0.0068
+  F1-score: 0.0136
+
+Cutoff: 4.40
+  TP: 34, TN: 7844
+  FP: 1, FN: 5226
+  Accuracy: 0.6011
+  Precision: 0.9714, Recall: 0.0065
+  F1-score: 0.0128
+
+Cutoff: 4.45
+  TP: 32, TN: 7844
+  FP: 1, FN: 5228
+  Accuracy: 0.6010
+  Precision: 0.9697, Recall: 0.0061
+  F1-score: 0.0121
+
+Cutoff: 4.50
+  TP: 31, TN: 7844
+  FP: 1, FN: 5229
+  Accuracy: 0.6009
+  Precision: 0.9688, Recall: 0.0059
+  F1-score: 0.0117
+
+Cutoff: 4.55
+  TP: 27, TN: 7844
+  FP: 1, FN: 5233
+  Accuracy: 0.6006
+  Precision: 0.9643, Recall: 0.0051
+  F1-score: 0.0102
+
+Cutoff: 4.60
+  TP: 26, TN: 7844
+  FP: 1, FN: 5234
+  Accuracy: 0.6005
+  Precision: 0.9630, Recall: 0.0049
+  F1-score: 0.0098
+
+Cutoff: 4.65
+  TP: 23, TN: 7844
+  FP: 1, FN: 5237
+  Accuracy: 0.6003
+  Precision: 0.9583, Recall: 0.0044
+  F1-score: 0.0087
+
+Cutoff: 4.70
+  TP: 18, TN: 7845
+  FP: 0, FN: 5242
+  Accuracy: 0.6000
+  Precision: 1.0000, Recall: 0.0034
+  F1-score: 0.0068
+
+Cutoff: 4.75
+  TP: 18, TN: 7845
+  FP: 0, FN: 5242
+  Accuracy: 0.6000
+  Precision: 1.0000, Recall: 0.0034
+  F1-score: 0.0068
+
+Cutoff: 4.80
+  TP: 17, TN: 7845
+  FP: 0, FN: 5243
+  Accuracy: 0.5999
+  Precision: 1.0000, Recall: 0.0032
+  F1-score: 0.0064
+
+Cutoff: 4.85
+  TP: 16, TN: 7845
+  FP: 0, FN: 5244
+  Accuracy: 0.5998
+  Precision: 1.0000, Recall: 0.0030
+  F1-score: 0.0061
+
+Cutoff: 4.90
+  TP: 16, TN: 7845
+  FP: 0, FN: 5244
+  Accuracy: 0.5998
+  Precision: 1.0000, Recall: 0.0030
+  F1-score: 0.0061
+
+Cutoff: 4.95
+  TP: 16, TN: 7845
+  FP: 0, FN: 5244
+  Accuracy: 0.5998
+  Precision: 1.0000, Recall: 0.0030
+  F1-score: 0.0061
+
+Cutoff: 5.00
+  TP: 15, TN: 7845
+  FP: 0, FN: 5245
+  Accuracy: 0.5998
+  Precision: 1.0000, Recall: 0.0029
+  F1-score: 0.0057
+
+Cutoff: 5.05
+  TP: 15, TN: 7845
+  FP: 0, FN: 5245
+  Accuracy: 0.5998
+  Precision: 1.0000, Recall: 0.0029
+  F1-score: 0.0057
+
+Cutoff: 5.10
+  TP: 15, TN: 7845
+  FP: 0, FN: 5245
+  Accuracy: 0.5998
+  Precision: 1.0000, Recall: 0.0029
+  F1-score: 0.0057
+
+Cutoff: 5.15
+  TP: 14, TN: 7845
+  FP: 0, FN: 5246
+  Accuracy: 0.5997
+  Precision: 1.0000, Recall: 0.0027
+  F1-score: 0.0053
+
+Cutoff: 5.20
+  TP: 12, TN: 7845
+  FP: 0, FN: 5248
+  Accuracy: 0.5995
+  Precision: 1.0000, Recall: 0.0023
+  F1-score: 0.0046
+
+Cutoff: 5.25
+  TP: 11, TN: 7845
+  FP: 0, FN: 5249
+  Accuracy: 0.5995
+  Precision: 1.0000, Recall: 0.0021
+  F1-score: 0.0042
+
+Cutoff: 5.30
+  TP: 10, TN: 7845
+  FP: 0, FN: 5250
+  Accuracy: 0.5994
+  Precision: 1.0000, Recall: 0.0019
+  F1-score: 0.0038
+
+Cutoff: 5.35
+  TP: 10, TN: 7845
+  FP: 0, FN: 5250
+  Accuracy: 0.5994
+  Precision: 1.0000, Recall: 0.0019
+  F1-score: 0.0038
+
+Cutoff: 5.40
+  TP: 9, TN: 7845
+  FP: 0, FN: 5251
+  Accuracy: 0.5993
+  Precision: 1.0000, Recall: 0.0017
+  F1-score: 0.0034
+
+Cutoff: 5.45
+  TP: 8, TN: 7845
+  FP: 0, FN: 5252
+  Accuracy: 0.5992
+  Precision: 1.0000, Recall: 0.0015
+  F1-score: 0.0030
+
+Cutoff: 5.50
+  TP: 7, TN: 7845
+  FP: 0, FN: 5253
+  Accuracy: 0.5992
+  Precision: 1.0000, Recall: 0.0013
+  F1-score: 0.0027
+
+Cutoff: 5.55
+  TP: 7, TN: 7845
+  FP: 0, FN: 5253
+  Accuracy: 0.5992
+  Precision: 1.0000, Recall: 0.0013
+  F1-score: 0.0027
+
+Cutoff: 5.60
+  TP: 6, TN: 7845
+  FP: 0, FN: 5254
+  Accuracy: 0.5991
+  Precision: 1.0000, Recall: 0.0011
+  F1-score: 0.0023
+
+Cutoff: 5.65
+  TP: 6, TN: 7845
+  FP: 0, FN: 5254
+  Accuracy: 0.5991
+  Precision: 1.0000, Recall: 0.0011
+  F1-score: 0.0023
+
+Cutoff: 5.70
+  TP: 6, TN: 7845
+  FP: 0, FN: 5254
+  Accuracy: 0.5991
+  Precision: 1.0000, Recall: 0.0011
+  F1-score: 0.0023
+
+Cutoff: 5.75
+  TP: 5, TN: 7845
+  FP: 0, FN: 5255
+  Accuracy: 0.5990
+  Precision: 1.0000, Recall: 0.0010
+  F1-score: 0.0019
+
+Cutoff: 5.80
+  TP: 5, TN: 7845
+  FP: 0, FN: 5255
+  Accuracy: 0.5990
+  Precision: 1.0000, Recall: 0.0010
+  F1-score: 0.0019
+
+Cutoff: 5.85
+  TP: 5, TN: 7845
+  FP: 0, FN: 5255
+  Accuracy: 0.5990
+  Precision: 1.0000, Recall: 0.0010
+  F1-score: 0.0019
+
+Cutoff: 5.90
+  TP: 5, TN: 7845
+  FP: 0, FN: 5255
+  Accuracy: 0.5990
+  Precision: 1.0000, Recall: 0.0010
+  F1-score: 0.0019
+
+Cutoff: 5.95
+  TP: 4, TN: 7845
+  FP: 0, FN: 5256
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0008
+  F1-score: 0.0015
+
+Cutoff: 6.00
+  TP: 4, TN: 7845
+  FP: 0, FN: 5256
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0008
+  F1-score: 0.0015
+
+Cutoff: 6.05
+  TP: 4, TN: 7845
+  FP: 0, FN: 5256
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0008
+  F1-score: 0.0015
+
+Cutoff: 6.10
+  TP: 4, TN: 7845
+  FP: 0, FN: 5256
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0008
+  F1-score: 0.0015
+
+Cutoff: 6.15
+  TP: 4, TN: 7845
+  FP: 0, FN: 5256
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0008
+  F1-score: 0.0015
+
+Cutoff: 6.20
+  TP: 4, TN: 7845
+  FP: 0, FN: 5256
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0008
+  F1-score: 0.0015
+
+Cutoff: 6.25
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.30
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.35
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.40
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.45
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.50
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.55
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.60
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.65
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.70
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.75
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.80
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.85
+  TP: 3, TN: 7845
+  FP: 0, FN: 5257
+  Accuracy: 0.5989
+  Precision: 1.0000, Recall: 0.0006
+  F1-score: 0.0011
+
+Cutoff: 6.90
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 6.95
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.00
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.05
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.10
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.15
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.20
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.25
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.30
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.35
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.40
+  TP: 2, TN: 7845
+  FP: 0, FN: 5258
+  Accuracy: 0.5988
+  Precision: 1.0000, Recall: 0.0004
+  F1-score: 0.0008
+
+Cutoff: 7.45
+  TP: 1, TN: 7845
+  FP: 0, FN: 5259
+  Accuracy: 0.5987
+  Precision: 1.0000, Recall: 0.0002
+  F1-score: 0.0004
+
+Cutoff: 7.50
+  TP: 1, TN: 7845
+  FP: 0, FN: 5259
+  Accuracy: 0.5987
+  Precision: 1.0000, Recall: 0.0002
+  F1-score: 0.0004
+
+Cutoff: 7.55
+  TP: 0, TN: 7845
+  FP: 0, FN: 5260
+  Accuracy: 0.5986
+  Precision: 0.0000, Recall: 0.0000
+  F1-score: 0.0000
+
